@@ -1,0 +1,41 @@
+body {
+    background-color: #FFEDDA;
+}
+
+.baslik {
+    color: #FFB830;
+    text-align: center;  
+    border-radius: 10px;
+    width: 300px;
+    border: 15px solid #FFB830;
+    padding: 50px;
+    margin: 30px auto;
+    background-color: #FF2442;
+}
+
+.menu {
+    color: #7D1935;
+    width: 200px;
+    margin: 30px auto;
+    text-align: center;
+    
+}
+
+.linkler {
+    color: #7D1935;
+    text-decoration: none;
+
+}
+.filmler {
+    text-align: center;
+    margin: 30px auto;
+    padding: 5px 5px;
+    width: 33%;
+    
+
+}
+
+.film-list {
+    text-align: center;
+
+}
